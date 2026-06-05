@@ -1,0 +1,15 @@
+# Secrets — ne jamais versionner
+.env
+
+# Docker
+.docker/
+
+# Dépendances
+vendor/
+node_modules/
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+.DS_Store
