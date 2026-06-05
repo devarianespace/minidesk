@@ -1,7 +1,7 @@
 # MiniDesk 🎫
 
 > **Exercice technique — Développeur FullStack**
-> Durée estimée : **3 heures**. Délai de rendu : **72 heures** après réception via Github.
+> Durée estimée : **2 à 3 heures**. Délai de rendu : **72 heures** après réception via Github.
 
 ---
 
@@ -186,7 +186,7 @@ make test
 ### Réflexion
 
 > *(Bonus — 200 mots max)* Qu'aurais-tu fait différemment avec plus de temps ?
-> Authentification, scalabilité, CI/CD, observabilité... ce que tu juges pertinent.
+> Authentification, scalabilité, CI/CD, observabilité, automatisation, évolution ou connexion avec un autre service... ce que tu juges pertinent.
 
 *(à renseigner)*
 
